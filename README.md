@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Matayapee
 - 👀 I’m interested in ...python 
 - 🌱 I’m currently learning ...datascience
-- 💞️ I’m looking to collaborate on ...new friends 
+- 💞️ I’m looking forward to collaborate with my fellow programmers 
 - 📫 How to reach me ...
 
 <!---
